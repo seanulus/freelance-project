@@ -7,18 +7,24 @@ This is the CSS/Design Week Two code review. Our goal is to create sketches, wir
 
 # Sketches
 
-Desktop:
+## Desktop:
 ![Sketch](sketches/desktop.JPG)
-
+## Tablet
 ![Sketch](sketches/tablet.JPG)
-
+## Mobile
 ![Sketch](sketches/mobile1.JPG)
-
+## Mobile
 ![Sketch](sketches/mobile2.JPG)
-
-![Sketch](sketches/mobile3.JPG) 
+## Mobile
+![Sketch](sketches/mobile3.JPG)
 
 # Screenshots
+
+## Wireframe for Views
+![Screenshot](screenshots/Three-Screen-View.png)
+
+## Prototype and Wireframe Views
+![Screenshot](screenshots/Prototype-View.png)
 
 # Specifications
 * Online presence mirrors their in-person presence, attracting the people who would enjoy the workspace.
@@ -31,7 +37,7 @@ Desktop:
 
 * Easy to see the amenities offered in the space. On site coffee, communal and private offices, high-speed internet, printing/faxing, optional fun activity on Thursdays (yoga, complimentary food, craft)
 
-#Brainstorming
+# Brainstorming
 
 * We are a company committed to fostering creativity. We believe our core values apply to every aspect of life and invite anyone that feels the same way to connect with us. Designed to provide a nurturing space for creativity and inspiration for every individual.
 
@@ -41,12 +47,12 @@ Desktop:
 
 * Give the company a different feel than similar companies. Since they are trying to cater to artists as well as business and tech, try using an interesting but palpable color scheme that caters to everyone who might use the space.
 
-*  
 
 # Setup Requirements
 * Clone this repository
 * You will need Sketch or a similar program to open this file and view the contents of the wireframes and prototypes.
 * Images of the paper sketches will be contained in the sketches directory of this repository.
+
 <!-- * Run npm install to install all dependencies
 * Run npm run start to build and start the development environment -->
 
@@ -58,6 +64,7 @@ Desktop:
 * Sketch
 * HTML
 * CSS
+
 <!-- * JavaScript
 * Webpack
 * Jasmine
