@@ -28,7 +28,9 @@ This is the CSS/Design Week Two code review. Our goal is to create sketches, wir
 
 * Include an about section detailing the core values listed above. A section including what services are offered and tie them into said core values. This company cares about the people who utilize their space.
 
-*   
+* Give the company a different feel than similar companies. Since they are trying to cater to artists as well as business and tech, try using an interesting but palpable color scheme that caters to everyone who might use the space.
+
+*  
 
 # Setup Requirements
 * Clone this repository
