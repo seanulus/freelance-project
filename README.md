@@ -5,9 +5,20 @@
 # Description
 This is the CSS/Design Week Two code review. Our goal is to create sketches, wireframes and prototypes for a new cowork space opening in the area based on criteria from our client.
 
-#Sketches
+# Sketches
 
-#Screenshots
+Desktop:
+![Sketch](sketches/desktop.JPG)
+
+![Sketch](sketches/tablet.JPG)
+
+![Sketch](sketches/mobile1.JPG)
+
+![Sketch](sketches/mobile2.JPG)
+
+![Sketch](sketches/mobile3.JPG) 
+
+# Screenshots
 
 # Specifications
 * Online presence mirrors their in-person presence, attracting the people who would enjoy the workspace.
