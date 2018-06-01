@@ -20,6 +20,16 @@ This is the CSS/Design Week Two code review. Our goal is to create sketches, wir
 
 * Easy to see the amenities offered in the space. On site coffee, communal and private offices, high-speed internet, printing/faxing, optional fun activity on Thursdays (yoga, complimentary food, craft)
 
+#Brainstorming
+
+* We are a company committed to fostering creativity. We believe our core values apply to every aspect of life and invite anyone that feels the same way to connect with us. Designed to provide a nurturing space for creativity and inspiration for every individual.
+
+* Use entrance photo on main page to give a feeling of openness and opportunity. A welcoming atmosphere for all types of creative people.
+
+* Include an about section detailing the core values listed above. A section including what services are offered and tie them into said core values. This company cares about the people who utilize their space.
+
+*   
+
 # Setup Requirements
 * Clone this repository
 * You will need Sketch or a similar program to open this file and view the contents of the wireframes and prototypes.
